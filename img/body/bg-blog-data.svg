@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #262626;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <rect id="bg-blog-data.svg" class="cls-1" width="60" height="60" rx="5" ry="5"/>
+</svg>
